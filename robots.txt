@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-up.sprunpin.xyz/sitemap.xml
-Host: pin-up.sprunpin.xyz
+Sitemap: http://pinupaz.sprunpin.xyz/sitemap.xml
+Host: pinupaz.sprunpin.xyz
